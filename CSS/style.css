@@ -1,0 +1,28 @@
+.water {
+background-image: url("../img/horiz.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+    background-position: right;
+}
+
+.jumbotron {
+  background-image: url("../img/BankofChinaTower_HongKong.jpg");
+  background-size: cover;
+}
+
+.hall {
+  background-image: url("../img/rocknroll_halloffame_cleaveland.jpg");
+  background-size: cover;
+}
+
+border {
+    display: inline-block;
+    width: 70px;
+    height: 70px;
+    margin: 6px;
+  }
+
+.img-fluid {
+    width: 100%;
+    height:auto;
+}
